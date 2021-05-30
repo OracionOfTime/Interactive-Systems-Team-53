@@ -1,4 +1,4 @@
-INTERACTIVE SYSTEMS - PROJECT BY TEAM #53 (Joe Arens & Marcel Niedballa)
+INTERACTIVE SYSTEMS - PROJECT BY TEAM #53 (Joe Arens & Marcel Niedballa) lol
 -------------------------------------------------------------------------------------------------------------------------------------
 In this project we are going to implement a local pipeline, consisting of a input, given by an input (Morse Code and button), a 
 processing unit (WeMos D1 mini) and an output (hex-code and servo motor).
